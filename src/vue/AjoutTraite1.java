@@ -174,7 +174,7 @@ public class AjoutTraite1 extends javax.swing.JFrame {
         annuler.setBorder(null);
         annuler.setBorderPainted(false);
         annuler.setContentAreaFilled(false);
-        annuler.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        annuler.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         annuler.setDefaultCapable(false);
         annuler.setFocusPainted(false);
         annuler.setFocusable(false);
@@ -193,7 +193,7 @@ public class AjoutTraite1 extends javax.swing.JFrame {
         ajouter.setBorder(null);
         ajouter.setBorderPainted(false);
         ajouter.setContentAreaFilled(false);
-        ajouter.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        ajouter.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         ajouter.setFocusPainted(false);
         ajouter.setFocusable(false);
         ajouter.setRequestFocusEnabled(false);
